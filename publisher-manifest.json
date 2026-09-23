@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "60dca72a21e38d8d24b5caea",
+  "owner": "rybrewsmsrc",
+  "repo": "page-8fc5cd4deb5db9ff6a8fb5fa",
+  "title": "CLOUD",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8fc5cd4deb5db9ff6a8fb5fa",
+      "a": "CLOUD",
+      "b": "2027官方最新地址导航",
+      "entity": "CLOUD",
+      "brand": "CLOUD",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c4f6f6970170a8142bcec8870aae752221739a3feb6a7bd076bf842b75228cea",
+      "content": {
+        "primary_entity": "CLOUD",
+        "keyword1": "CLOUD",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，面向跨境办公、流媒体与游戏加速场景，提供基础版、旗舰版与团队版三档订阅。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备并含 IPLC 专线游戏优化；团队版每月 1000GB 流量、支持 20 台设备与专属客户经理。各版本均可按年付享受更优惠价格。",
+          "AI_HERO_SUBTITLE": "多设备订阅加速方案",
+          "AI_HERO_INTRO": "CLOUD 提供基础版、旗舰版与团队版三档订阅选择，覆盖每月 100GB 到 1000GB 流量区间，支持 3 台至 20 台设备同时在线。根据跨境办公、流媒体解锁或游戏加速需求，可灵活匹配流量额度与设备数量。",
+          "AI_VISUAL_TITLE": "CLOUD 订阅方案",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数灵活选",
+          "AI_HIGHLIGHT_2": "年付价格更优惠",
+          "AI_HIGHLIGHT_3": "IPLC 专线优化游戏延迟",
+          "AI_FEATURES_TITLE": "套餐与设备选择",
+          "AI_FEATURES_INTRO": "依据设备数量、流量需求与使用场景挑选合适订阅版本。",
+          "AI_FEATURE_TITLE_1": "按设备数匹配套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，按家庭或团队规模选择。",
+          "AI_FEATURE_TITLE_2": "流量梯度与年付优惠",
+          "AI_FEATURE_TEXT_2": "月付 ¥15 至 ¥85，年付价格从 ¥150/年至 ¥850/年，长周期订阅更划算。",
+          "AI_FEATURE_TITLE_3": "场景化节点与专线",
+          "AI_FEATURE_TEXT_3": "旗舰版与团队版提供原生流媒体解锁与 IPLC 专线，适合高清视频和实时游戏加速。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，按客户端文档导入订阅信息。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻度个人使用，旗舰版适合多设备影音游戏，团队版面向高流量多终端场景。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "从选择套餐到完成客户端订阅配置的三步流程。",
+          "AI_STEP_TITLE_1": "选择服务版本",
+          "AI_STEP_TEXT_1": "结合设备数量与月度流量需求，在基础版、旗舰版或团队版中选定套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备系统是否符合客户端运行条件，以及同时在线设备数限制。",
+          "AI_STEP_TITLE_3": "导入订阅信息",
+          "AI_STEP_TEXT_3": "在所选客户端中依其使用说明填入订阅地址，保存后即可读取节点列表。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选择合适版本，按客户端文档完成订阅配置。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。按年付分别约 ¥150、¥350、¥850。",
+          "AI_FAQ_ANSWER_2": "订阅链接可在客户端粘贴导入，具体操作路径请以客户端文档为准，不同系统菜单名称略有差异。",
+          "AI_FAQ_ANSWER_3": "旗舰版含 IPLC 专线游戏加速优化，适合对延迟敏感的游戏场景；基础版为普通线路节点池，满足日常浏览。",
+          "AI_FAQ_ANSWER_4": "套餐按年付更划算，年付约为月付的十个月价格。流量超出后可按需求升级到更高一档，避免中途中断。",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备、VIP 高带宽节点与企业定制路由，并配专属客户经理，适合多终端协作的使用场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "CLOUD 三档套餐的流量和设备数分别是多少？",
+          "AI_FAQ_QUESTION_2": "订阅链接怎么导入到客户端？",
+          "AI_FAQ_QUESTION_3": "旗舰版的专线对游戏延迟有帮助吗？",
+          "AI_FAQ_QUESTION_4": "按年付和按月付哪个更划算？",
+          "AI_FAQ_QUESTION_5": "团队版适合什么使用场景？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zlnpw.cn",
+    "host": "zlnpw.cn"
+  },
+  "file_hashes": {
+    "index.html": "971c26e9c0b565855087d55c922a04abd7da8169370032363edeb26c5870eb3f",
+    "sitemap.xml": "75fde0fe823b1651b54d348e9c40f5c1f7018bfeb025a750b21cc14ea41f43f9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "88ab6afa34841f74fb0ec34bad420bd641f733c84021980eb498afe851cb8dd0",
+    "robots.txt": "da2e5a4bba46df5c8d47454d3be574bb41800742a246e1a60ea5f30e75e043d8",
+    "36bb4be8391b6af5ac7a3ed44889fc8c.txt": "2abe91e10a53fa3c488caf5b24ff64c172456ae0890edffbae020967e536b1a6"
+  },
+  "revision": "2ca225c3ad35e3cdf9ae146202c9ac699d276bf9d764eb7d7c9d92dd9cd18c41"
+}
